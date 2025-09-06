@@ -1,24 +1,25 @@
-   1 try { . "c:\Users\prave\AppData\Local\Programs\Microsoft VS Co... 
-   2 ls
-   3 ls -a
-   4 ls -dir
-   5 git status
-   6 git status
-   7 git add testting.py
-   8 git status
-   9 git add testing.py
-  10 git status
-  11 git rm --cached testing.py
-  12 git status
-  13 git add testing.py
-  14 git status
-  15 git commit -m "first commit"
-  16 git config --global user.email "praveenminshu63@gmail.com"        
-  17 git config --global user.name "Praveen"
-  18 git commit -m "first commit"
-  19 git status
-  20 rm testing.py
-  21 ls
-  22 git status
-  23 git restore testing.py
-  24 git status
+try { . "c:\Users\prave\AppData\Local\Programs\Microsoft VS Co... 
+ls
+ls -a
+ls -dir
+git status
+git status
+git add testting.py
+git status
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+git add testing.py
+git status
+git commit -m "first commit"
+git config --global user.email "praveenminshu63@gmail.com"        
+git config --global user.name "Praveen"
+git commit -m "first commit"
+git status
+rm testing.py
+git status
+git restore testing.py
+git status
+
+This is new change
